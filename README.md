@@ -39,4 +39,4 @@
 * Centurate Assessment Consortium
 
 ## Contact:
-![image](https://wriar.github.io/resources/clinks.png, "Links")
+![image](https://wriar.github.io/resources/clinks.png)
