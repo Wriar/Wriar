@@ -16,6 +16,7 @@
 ## Desktop Development:
 * C#
 * VBNET/VBS
+* Electron
 
 ## Certifications:
 * MO-100 2019/365
