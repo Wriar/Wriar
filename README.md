@@ -1,5 +1,9 @@
 # Wriar
-![#1589F0](https://img.shields.io/static/v1?label=&message=IF+YOU+CAN+DO+ASPNET+LET+ME+KNOW+PLEASE&color=red)
+
+
+## Contact:
+![image](https://wriar.github.io/resources/clinks.png)
+
 
 ## Web Development:
 * HTML
@@ -37,6 +41,3 @@
 
 ## Organizations:
 * Centurate Assessment Consortium
-
-## Contact:
-![image](https://wriar.github.io/resources/clinks.png)
