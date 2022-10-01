@@ -12,11 +12,17 @@
 * PHP
 * ASP.NET
 * jQuery/Ajax
+* Node.JS
 
 ## Desktop Development:
-* C#
+* C#/.NET
 * VBNET/VBS
 * Electron
+* Shell
+
+## Database Technologies:
+* MySQL
+* Redis
 
 ## Certifications:
 * MO-100 2019/365
@@ -26,19 +32,23 @@
 * MSO Specialist (Jan. 2022).
 
 ## Technologies:
-* MySQL
-* Redis
 * .NET Framework
 * NET Core
 * Mono
 * Apache Web Server
 
+
 ## Open Source Apps:
-* QuakeFocus Pro: Earthquake Early Warning software that automatically detect, forecast, and countdowns Earthquakes in Japan using official JMA data. Utilizes sixth-order polynomial interpolation to process data. (Legal if used properly)
+* **QuakeFocus Pro**:
+  * Highly Accurate software to provide early-warning to users in case of Earthquake in JMA administered region with raw seismograph data from official API. Uses [Polynomial Interpolation Algorithm (here)](https://qiita.com/NoneType1/items/a4d2cf932e20b56ca444) to forecast intensities and arrival times (up to the nearest second, up to 120 seconds). Licensed under GPL.
+  
+* **OpenAssess:**
+  * Part of Centurate Open Source Consortium, create, administer, and score assessments automatically from a ticket-based system. Requires MySQL.
 
 ## Open Source Projects
 * L+Ratio: Create/Tweet L+Ratio comments to twitter.
-* HID Reader: Read Weigand protocol in a HID iclass/multiclass/pivclass reader for keycard/pinpad detection.
+* HID Reader: Read Weigand protocol in a HID iClass/MultiClass/PivClass reader for keycard/pinpad detection in C++
 
 ## Organizations:
 * Centurate Assessment Consortium
+* Centurate Administrative Technologies
