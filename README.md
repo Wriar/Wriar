@@ -1,5 +1,7 @@
 # Wriar
 
+[![Wriar Github Stats](https://github-readme-stats.vercel.app/api?username=wriar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact:
 ![image](https://wriar.github.io/resources/clinks.png)
