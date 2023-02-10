@@ -4,7 +4,7 @@
 
 
 ## Contact:
-![image](https://wriar.github.io/resources/clinks.png)
+![image](https://wriar.github.io/resources/contactImg.png)
 
 
 ## Web Development:
