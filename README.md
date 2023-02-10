@@ -4,8 +4,7 @@
 
 
 ## Contact:
-![image](https://wriar.github.io/resources/contactImg.png)
-
+<img src="https://wriar.github.io/resources/contactImg.png" alt="contact image" style="width:18%" >
 
 ## Web Development:
 * HTML
