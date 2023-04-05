@@ -4,7 +4,7 @@
 
 
 ## Contact Email:
-<img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:10%" >
+<img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
 
 ## Web Development:
 * HTML
