@@ -3,8 +3,8 @@
 [![Wriar Github Stats](https://github-readme-stats.vercel.app/api?username=wriar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contact:
-<img src="https://wriar.github.io/resources/contactImg.png" alt="contact image" style="width:18%" >
+## Contact Email:
+<img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:10%" >
 
 ## Web Development:
 * HTML
