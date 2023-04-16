@@ -8,6 +8,7 @@
 ## Contact Email:
 <img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
 
+<!--
 ## Web Development:
 * HTML
 * CSS
@@ -55,3 +56,4 @@
 ## Organizations:
 * Centurate Assessment Consortium
 * Centurate Administrative Technologies
+-->
