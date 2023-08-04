@@ -15,6 +15,7 @@
 * MO-101 2019/365
 * MSO Specialist (Jan. 2022).
 
+Discord: ``@wriar``
 <!--
 ## Web Development:
 * HTML
