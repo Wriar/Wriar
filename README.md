@@ -9,6 +9,7 @@
 <img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
 
 ## Certifications:
+* Lenovo NGSP Service Partner (CPRW151)
 * MO-100 2019/365
 * MO-200 2019/365
 * MO-300 2019/365
@@ -37,8 +38,8 @@ Discord: ``@wriar``
 * Redis
 
 ## Certifications:
-* Lenovo NGSP Service Partner (CPRW151)
 * MO-100 2019/365
+* Lenovo NGSP Service Partner (CPRW151)
 * MO-200 2019/365
 * MO-300 2019/365
 * MO-101 2019/365
