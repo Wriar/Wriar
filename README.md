@@ -37,6 +37,7 @@ Discord: ``@wriar``
 * Redis
 
 ## Certifications:
+* Lenovo NGSP Service Partner (CPRW151)
 * MO-100 2019/365
 * MO-200 2019/365
 * MO-300 2019/365
