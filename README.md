@@ -10,7 +10,7 @@
 
 ## Certifications:
 * **Lenovo NGSP Service Partner** (CPRW162, CPRW158, CPRW165, CPRW161, RWSW102)
-* Additionally Certified in CPRW151, CPRW152, CPRW153, CPRW155 under Lenovo NGSP Service Partner *CPRW168 Certification Exam*.
+* **Lenovo Service Partner Certified CPRW168** (CPRW151, CPRW152, CPRW153, CPRW155)
 * MO-100 2019/365
 * MO-200 2019/365
 * MO-300 2019/365
