@@ -9,7 +9,7 @@
 <img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
 
 ## Certifications:
-* Lenovo NGSP Service Partner (CPRW151)
+* Lenovo NGSP Service Partner (CPRW151, CPRW162, RWSW102))
 * MO-100 2019/365
 * MO-200 2019/365
 * MO-300 2019/365
