@@ -7,7 +7,7 @@
 
 ## Contact Email:
 <img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
-
+<!--
 ## Certifications:
 * **Lenovo NGSP Service Partner** (CPRW162, CPRW158, CPRW165, CPRW161, RWSW102)
 * **Lenovo Service Partner Certified CPRW168** (CPRW151, CPRW152, CPRW153, CPRW155)
@@ -16,6 +16,47 @@
 * MO-300 2019/365
 * MO-101 2019/365
 * MSO Specialist (Jan. 2022).
+-->
+
+## Certifications:
+  
+<table style="text-align: center">
+        <tr>
+            <th colspan="2" style="vertical-align: center"><img src="600f2568fcd2b500043083dc.png" alt="Lenovo" style="height: 3em"> <br>Service Partner Technician</th>
+            <th colspan="2"><img src="microsoft.png" alt="Microsoft" style="height: 3em"> <br>Microsoft 365 Certified</th>
+        </tr>
+        <tr>
+            <td>CPRW162</td>
+            <td>CPRW158</td>
+            <td>MO-100 365</td>
+            <td>MO-200 2019 365</td>
+        </tr>
+        <tr>
+            <td>CPRW165</td>
+            <td>CPRW161</td>
+            <td>MO-300 2019 365</td>
+            <td>MO-101 2019 365</td>
+        </tr>
+        <tr>
+            <td>RWSW102</td>
+            <td>CPRW151</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>CPRW152/153</td>
+            <td>CPRW155</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+         <td colspan="2"><i>CPRW168 NGSP</i> Warranty Certified (2023)</td>
+         <td colspan="2">Microsoft 365 Associate Certified (2022)</td>
+        </tr>
+
+        
+   </table>
+    
 
 Discord: ``@wriar``
 <!--
