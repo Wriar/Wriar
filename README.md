@@ -5,8 +5,7 @@
 <!--[![Wriar Github Stats](https://github-readme-stats.vercel.app/api?username=wriar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Contact Email:
-<img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
+
 <!--
 ## Certifications:
 * **Lenovo NGSP Service Partner** (CPRW162, CPRW158, CPRW165, CPRW161, RWSW102)
@@ -56,7 +55,10 @@
 
         
    </table>
-    
+
+
+## Contact Links:
+<img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
 
 Discord: ``@wriar``
 <!--
