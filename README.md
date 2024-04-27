@@ -24,6 +24,7 @@
         <tr>
             <th colspan="3" style="vertical-align: center"><img src="600f2568fcd2b500043083dc.png" alt="Lenovo" style="height: 3em"> <br>Service Repair Partner Technician</th>
             <th colspan="2"><img src="microsoft.png" alt="Microsoft" style="height: 3em"> <br>Microsoft 365 Certified</th>
+            <th colspan="2"><img src="cslp.png" alt="Cisco Logo" style="height: 3em"> <br>Cisco Networking Academy</th>
         </tr>
         <tr>
             <td>CPRW162</td>
@@ -31,6 +32,7 @@
             <td>RWSW209</td>
             <td>MO-100 365</td>
             <td>MO-200 2019 365</td>
+            <td rowspan="5" align="center" ><img style="height: 5em;" src="english-for-it-1.png" alt="English for IT"></img></td>
         </tr>
         <tr>
             <td>CPRW165</td>
