@@ -32,7 +32,10 @@
             <td>RWSW209</td>
             <td>MO-100 365</td>
             <td>MO-200 2019 365</td>
-            <td rowspan="5" align="center" ><img style="height: 5em;" src="english-for-it-1.png" alt="English for IT"></img></td>
+            <td rowspan="5" align="center" >
+              <img style="height: 5em;" src="english-for-it-1.png" alt="English for IT"></img>
+              <img style="height: 5em;" src="introduction-to-cybersecurity.png" alt="Introduction to CyberSecurity"></img
+            </td>
         </tr>
         <tr>
             <td>CPRW165</td>
