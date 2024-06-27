@@ -69,7 +69,7 @@
 
 ## Contact Links:
 <img src="https://wriar.github.io/contactB.png" alt="contact image" style="width:18%" >
-For sensitive messages, please encrypt with PGP key of fingerprint <code>E0D7BBDCCE4D1AF54C66E4E8332D7DE5534942B0</code> searchable on openpgp public keyserver pool.<br><br>
+For sensitive messages, please encrypt with PGP key of fingerprint <code>E0D7BBDCCE4D1AF54C66E4E8332D7DE5534942B0</code> searchable on <a href="https://keys.openpgp.org" target="_blank" rel="noopener noreferrer">openpgp public keyserver pool</a>.<br><br>
 
 Discord: ``@wriar``
 <!--
