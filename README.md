@@ -6,4 +6,5 @@
 For sensitive messages, please encrypt with PGP key of fingerprint <code>93B30D9DB793B1EE94E19F62AF83B591335EBF3D</code> searchable on <a href="https://keys.openpgp.org" target="_blank" rel="noopener noreferrer">openpgp public keyserver pool</a>.<br><br> 
 
 Discord: ``@wriar``
-![Verify (Signed)](https://img.shields.io/badge/Verify?logo=checkmarx&link=https%3A%2F%2Fwriar.github.io%2FEmail-Contact.txt)
+
+![Verify Signed](https://img.shields.io/badge/Verify_Signed-1?logo=checkmarx&logoColor=white&link=https%3A%2F%2Fwriar.github.io%2FEmail-Contact.txt)
